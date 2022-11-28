@@ -1,5 +1,3 @@
 # test
 
-another change made for a test
-
-line break
+another change made for a test :)
